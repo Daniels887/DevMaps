@@ -1,6 +1,6 @@
-# DevMaps
+# DevRadar
 
-## Lista de depêndencias utilizadas:
+## Techs
 * Express
 * Mongoose
 * Axios
